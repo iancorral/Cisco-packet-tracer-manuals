@@ -21,12 +21,12 @@ La topología busca garantizar una comunicación segura, eficiente y controlada 
 - **Servidores DHCP**: asignan IPs automáticamente a dispositivos según la red.
 - **Firewall**: gestiona políticas de acceso entre segmentos (permitiendo HTTP, FTP, DNS, etc.).
 
-## 🚀 Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - Cisco Packet Tracer
 - VLANs, EIGRP, ACLs, DHCP, Firewall, ICMP
 
-## 👨‍💻 Autor
+## Autor
 
 **Ian Alejandro Corral Marín**  
 Estudiante de Ingeniería en Tecnologías de la Información y Telecomunicaciones  
