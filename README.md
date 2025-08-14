@@ -1,6 +1,6 @@
 # Cisco Packet Tracer: ULSA - DMZ - Google Network Configuration  
 
-This repository provides a detailed guide for building a network topology in *Cisco Packet Tracer, connecting three main segments: **ULSA, **DMZ, and **Google*.  
+This repository provides a detailed guide for building a network topology in Cisco Packet Tracer, connecting three main segments: ULSA, DMZ, and Google.  
 
 ## Overview  
 
