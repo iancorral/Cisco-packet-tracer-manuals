@@ -1,37 +1,35 @@
-# cisco-packet-tracer-manuals
-Manuales de configuración de red realizados en Cisco Packet Tracer
-# Cisco Packet Tracer: ULSA - DMZ - Google Network Configuration 
+# Cisco Packet Tracer: ULSA - DMZ - Google Network Configuration  
 
-Este repositorio contiene un manual detallado para la configuración de una topología de red en **Cisco Packet Tracer**, que interconecta tres segmentos principales: **ULSA**, **DMZ** y **Google**.
+This repository provides a detailed guide for building a network topology in *Cisco Packet Tracer, connecting three main segments: **ULSA, **DMZ, and **Google*.  
 
-## Descripción general
+## Overview  
 
-La topología busca garantizar una comunicación segura, eficiente y controlada mediante:
+The topology is designed to ensure secure, efficient, and controlled communication through:  
 
-- Segmentación de redes con **VLANs**
-- Enrutamiento dinámico con **EIGRP**
-- Control de tráfico con **ACLs** y **firewall**
-- Asignación dinámica de IPs con **DHCP**
-- Verificación de conectividad con **ICMP (ping)**
+- Network segmentation with *VLANs*  
+- Dynamic routing using *EIGRP*  
+- Traffic control with *ACLs* and a *firewall*  
+- Automatic IP assignment via *DHCP*  
+- Connectivity testing with *ICMP (ping)*  
 
-## Componentes de la red
+## Network Components  
 
-- **ULSA** y **Google**: configuradas con VLANs para mejorar seguridad y rendimiento.
-- **DMZ**: zona intermedia que aloja servicios como **FTP** y **DNS**.
-- **Servidores DHCP**: asignan IPs automáticamente a dispositivos según la red.
-- **Firewall**: gestiona políticas de acceso entre segmentos (permitiendo HTTP, FTP, DNS, etc.).
+- *ULSA* and *Google*: configured with VLANs to enhance performance and security.  
+- *DMZ: intermediate zone hosting services such as **FTP* and *DNS*.  
+- *DHCP servers*: provide dynamic IP addressing for devices in each network.  
+- *Firewall*: enforces access rules between segments (allowing HTTP, FTP, DNS, etc.).  
 
-## Tecnologías utilizadas
+## Technologies Used  
 
-- Cisco Packet Tracer
-- VLANs, EIGRP, ACLs, DHCP, Firewall, ICMP
+- Cisco Packet Tracer  
+- VLANs, EIGRP, ACLs, DHCP, Firewall, ICMP  
 
-## Autor
+## Author  
 
-**Ian Alejandro Corral Marín**  
-Estudiante de Ingeniería en Tecnologías de la Información y Telecomunicaciones  
-Universidad La Salle Chihuahua
+*Ian Alejandro Corral Marín*  
+Computer Systems Engineering Student  
+Universidad La Salle Chihuahua  
 
 ---
 
-¡Espero que este manual te sea útil para estudiar, practicar o presentar proyectos de redes en entornos simulados!
+This manual is intended as a learning resource for studying, practicing, or showcasing network projects in simulated environments.
